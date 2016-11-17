@@ -2,6 +2,10 @@
 
 Docker image that has XLTV installed, mounts your source code and executes compilation using gradle wrapper.
 
+# Supported tags #
+
+* `latest`, `v1.4.4.1`
+
 # Starting #
 
 ```
